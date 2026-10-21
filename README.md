@@ -1,2 +1,2 @@
-# gitex1
-リポジトリ
+# README.md
+GitHubのリモートリポジトリの練習用
